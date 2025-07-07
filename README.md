@@ -68,13 +68,29 @@ Roughly 14% of attacks are fatal, indicating that most victims survive — espec
 ## Seasonality
 
 Shark attacks tend to rise between June and October, aligning with summer beach activity in many countries.
+## RECOMMENDATION & CONCLUSION
+- Public Safety Campaigns: Governments and beach authorities should launch targeted awareness programs in high-risk countries and coastal towns.
 
-## Included Files:  
+- Time-based Activity Warnings: Limit or regulate beach activity during afternoon and night hours, when attacks are more likely.
+
+- Protect Children in Shared Access Zones: In areas with high child participation in water queues, towns should invest in safe, child-friendly infrastructure.
+
+- Species Monitoring: Invest in marine tracking and proper logging of shark species involved in attacks to better predict and prevent incidents.
+
+- First Aid & Medical Training: Equip lifeguards and local responders with injury-specific training — especially for lower limb injuries.
+
+- Improve Data Quality: Consistent reporting of species, time, injury, and victim demographics is needed to support accurate insights and policy-making.
+
+This analysis highlights how, where, when, and to whom shark attacks are happening. Although the number of attacks has risen, most are non-fatal and can be minimized through education, better infrastructure, and informed safety practices. 
+
+By focusing efforts on high-risk locations, vulnerable groups, and key time periods, stakeholders can improve public safety while maintaining harmony with marine ecosystems.
+
+## INCLUDED FILES:  
 - [`Shark_Attacks.pbix`](https://drive.google.com/open?id=1M95yhRL4rHEbU9NTqKxP5WAqgQAXaoXb&usp=drive_fs)
 - [`Shark_Attacks.pdf`](https://drive.google.com/open?id=1PjRsmgimeinPcaYoNO-j37NFsPMZIGlZ&usp=drive_fs)
 - [`Data`](https://docs.google.com/spreadsheets/d/1AUaL6M0yvLXEnoowcAL27WZg78I7R_QZuF-4YPQqpZY/edit#gid=1184588060)    
 
-## Video Demo:  
+## VIDEO DEMO:  
 [Dashboard Walkthrough](https://youtu.be/example)  
 
 ## CONNECT WITH ME:  
