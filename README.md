@@ -12,11 +12,9 @@ This project explores global shark attack data to uncover trends in victim demog
 - **Common Victim Profile**: Young males (84% of cases)  
 
 ## POWER BI TOOLS USED:   
-- Power Query 
-- Data Modeling 
-- Data Cleaning 
-- Data Visualization 
-- Actionable insights
+- Time slider for historical trends (1880-2017)  
+- Interactive filters by country and species  
+- Body part injury heatmaps  
 
 ## SKILLS / CONCEPTS DEMONSTRATED:  
 - Power Query transformations  
