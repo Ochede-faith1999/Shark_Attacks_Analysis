@@ -24,28 +24,50 @@ This project explores global shark attack data to uncover trends in victim demog
 - Geographic visualizations  
 
 ## VISUALIZATION & ANALYSIS:  
-(https://github.com/user-attachments/assets/683b3edc-5bfe-4741-87a6-6aec232e7505)
+![image](https://github.com/user-attachments/assets/683b3edc-5bfe-4741-87a6-6aec232e7505)
 
 ## ANALYSIS  
-### Attack Trends Over Time  
-Shark attacks have increased significantly since 1900, with spikes from 1980-2000. The rise correlates with growing beach tourism and water sports popularity.  
+## Shark Attack Trends Over Time 
 
-### Geographic Hotspots  
-The USA accounts for 70% of all attacks, with Florida's New Smyrna Beach being the most dangerous single location. Australia and South Africa follow as secondary hotspots.  
+Shark attacks have significantly increased since the early 1900s, with noticeable spikes from the 1980s through the early 2000s.
 
-### Victim Demographics  
-Males experience 84% of attacks, likely due to higher participation in risky water activities. Young adults (20-35) are the most affected age group.  
+## Most Affected Countries & Locations 
 
-### Injury Patterns  
-Feet and legs suffer 67% of injuries, indicating most attacks occur in shallow waters during wading or surfing.  
+The United States has the highest number(572) of reported shark attacks, followed by Australia, South Africa, and Brazil.
 
-## RECOMMENDATIONS & CONCLUSION  
-1. Launch safety campaigns in Florida, NSW, and Cape Town during peak seasons  
-2. Install shark monitoring systems at high-risk beaches  
-3. Educate surfers/swimmers about afternoon risks  
-4. Develop protective gear for legs/feet  
+Within these countries, coastal areas such as Florida(New Smyrna Beach), New South Wales, and Cape Town report the highest concentrations.
 
-The data reveals clear patterns in when, where, and to whom attacks occur. While incidents have risen, most are non-fatal. Targeted safety measures can significantly reduce risks while preserving marine ecosystems.  
+## Injury Patterns 
+
+Feet and legs are the most commonly injured body parts, highlighting that many attacks occur in shallow waters.
+
+Arms and thighs follow, which could point to swimming or surfing incidents.
+
+## Time of Day Patterns 
+
+Shark attacks most frequently occur during the morning(33%) and afternoon(53%) hours, likely due to peak human activity and certain shark feeding patterns.
+
+Nighttime attacks also appear significant, suggesting lower visibility as a risk factor.
+
+## Shark Species Involved 
+
+When excluding vague classifications like "Other," the Great White Shark is the most common species involved in attacks with a total of (200), followed by Tiger Shark (80)and Bull Shark(58).
+
+These species are known for being aggressive and frequenting human-populated waters.
+
+## Gender & Age Distribution 
+
+Males are overwhelmingly more affected than females (over 80% of victims), possibly due to higher engagement in risky water activities.
+
+The Young Adult age group reports the most attacks, followed by children and adults.
+
+## Fatality Rate 
+
+Roughly 14% of attacks are fatal, indicating that most victims survive — especially when prompt medical treatment is available.
+
+## Seasonality
+
+Shark attacks tend to rise between June and October, aligning with summer beach activity in many countries.
 
 ## Included Files:  
 - [`Shark_Attacks.pbix`](https://drive.google.com/open?id=1M95yhRL4rHEbU9NTqKxP5WAqgQAXaoXb&usp=drive_fs)
