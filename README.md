@@ -89,7 +89,7 @@ By focusing efforts on high-risk locations, vulnerable groups, and key time peri
 - [`Data`](https://docs.google.com/spreadsheets/d/1AUaL6M0yvLXEnoowcAL27WZg78I7R_QZuF-4YPQqpZY/edit#gid=1184588060)    
 
 ## VIDEO DEMO:  
-[Dashboard Walkthrough](https://youtu.be/example)  
+[Dashboard Walkthrough](https://youtu.be/lKkeTxyvnyo?si=EwmDu1BMVL_ZnJQC)  
 
 ## CONNECT WITH ME:  
 - [LinkedIn](https://www.linkedin.com/in/ochede-faith-15207a224) 
